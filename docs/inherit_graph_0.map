@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,144,108,169"/>
+<area shape="rect" id="Node000001" href="$classMinimalPublisher.html" title="A simple ROS 2 publisher node." alt="" coords="162,5,297,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="71,131,106,85,129,61,155,40,177,28,179,33,157,44,132,65,110,88,75,134"/>
+<area shape="rect" id="Node000002" href="$classMinimalSubscriber.html" title=" " alt="" coords="158,55,301,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="84,134,155,90,186,78,188,82,157,95,87,138"/>
+<area shape="rect" id="Node000003" href="$classfirst__package__cpp_1_1MinimalClient.html" title=" " alt="" coords="156,105,303,145"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="121,142,155,136,156,141,122,147"/>
+<area shape="rect" id="Node000004" href="$classfirst__package__cpp_1_1MinimalPublisher.html" title=" " alt="" coords="156,169,303,209"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="122,166,156,172,155,178,121,171"/>
+<area shape="rect" id="Node000005" href="$classfirst__package__cpp_1_1MinimalServer.html" title=" " alt="" coords="156,233,303,273"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="88,175,157,218,181,230,179,235,155,223,85,179"/>
+<area shape="rect" id="Node000006" href="$classfirst__package__cpp_1_1MinimalSubscriber.html" title=" " alt="" coords="156,297,303,337"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="74,180,108,231,131,258,158,283,176,294,173,299,154,287,128,262,104,234,69,183"/>
+</map>
